@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Feb 11 18:52:46 IST 2018
+0.baseType=DIRECTORY
+0.base=/home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/build/intermediates/transforms/dexMerger/debug/76
+0.path=classes.dex
+0.set=DEX
+count=1

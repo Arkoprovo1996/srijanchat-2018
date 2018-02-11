@@ -1,0 +1,355 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/b7a26d4ebfcecab91f54fc1a2bf951bd/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95d9bbca1cfba34f07f8c6aa86a1f4f5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b59ec2901e1b69575088f90ab814df6d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/bc4051111af3d1f985955e8b2a78a58e/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:16:1-35:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fdbe037e474258723e21115e3a08961b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c0e73b8c811076a8f841c80233697e5f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/552122adca4cca5d5463cc28d4d1dbca/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/14a2dc616983d5e613db53060f9cfaea/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/726035fff3931c87fbb84fa3137faa13/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/6dc81c63e61a356995441ad7473b322b/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/0d1e72391dc528c8601aad040c616b33/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6281e680eec90c8090aaf257b314b15d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/20c4545d8bd6b7a5d85385ee4f6bd2dc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/aa22e7c2caa7701c8703f3040bd76408/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7891e23a0d73398e8661a3752d7b04ac/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b28698f6d5c78b4a7f40a5047ddaf048/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/be067f3aeb44ea8f15b2fd7b5350727b/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0c8ed92df63f7cf47d5670ac0b74ddde/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/14a2dc616983d5e613db53060f9cfaea/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/14a2dc616983d5e613db53060f9cfaea/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:6:5-64
+	android:name
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:6:22-62
+application
+ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:9:5-24:19
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/b7a26d4ebfcecab91f54fc1a2bf951bd/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/b7a26d4ebfcecab91f54fc1a2bf951bd/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95d9bbca1cfba34f07f8c6aa86a1f4f5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95d9bbca1cfba34f07f8c6aa86a1f4f5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b59ec2901e1b69575088f90ab814df6d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b59ec2901e1b69575088f90ab814df6d/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:24:5-34:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fdbe037e474258723e21115e3a08961b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fdbe037e474258723e21115e3a08961b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c0e73b8c811076a8f841c80233697e5f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c0e73b8c811076a8f841c80233697e5f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/14a2dc616983d5e613db53060f9cfaea/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/14a2dc616983d5e613db53060f9cfaea/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/726035fff3931c87fbb84fa3137faa13/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/726035fff3931c87fbb84fa3137faa13/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/6dc81c63e61a356995441ad7473b322b/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/6dc81c63e61a356995441ad7473b322b/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/0d1e72391dc528c8601aad040c616b33/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/0d1e72391dc528c8601aad040c616b33/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6281e680eec90c8090aaf257b314b15d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6281e680eec90c8090aaf257b314b15d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/20c4545d8bd6b7a5d85385ee4f6bd2dc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/20c4545d8bd6b7a5d85385ee4f6bd2dc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/aa22e7c2caa7701c8703f3040bd76408/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/aa22e7c2caa7701c8703f3040bd76408/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7891e23a0d73398e8661a3752d7b04ac/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7891e23a0d73398e8661a3752d7b04ac/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b28698f6d5c78b4a7f40a5047ddaf048/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b28698f6d5c78b4a7f40a5047ddaf048/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/be067f3aeb44ea8f15b2fd7b5350727b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/be067f3aeb44ea8f15b2fd7b5350727b/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0c8ed92df63f7cf47d5670ac0b74ddde/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0c8ed92df63f7cf47d5670ac0b74ddde/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.android.ark.srijanchat.Home_Activity
+ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:16:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.android.ark.srijanchat.UserPage
+ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:23:9-55
+	android:name
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml:23:19-43
+uses-sdk
+INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml
+INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/b7a26d4ebfcecab91f54fc1a2bf951bd/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/b7a26d4ebfcecab91f54fc1a2bf951bd/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95d9bbca1cfba34f07f8c6aa86a1f4f5/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95d9bbca1cfba34f07f8c6aa86a1f4f5/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b59ec2901e1b69575088f90ab814df6d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b59ec2901e1b69575088f90ab814df6d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/bc4051111af3d1f985955e8b2a78a58e/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/bc4051111af3d1f985955e8b2a78a58e/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fdbe037e474258723e21115e3a08961b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fdbe037e474258723e21115e3a08961b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c0e73b8c811076a8f841c80233697e5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c0e73b8c811076a8f841c80233697e5f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/552122adca4cca5d5463cc28d4d1dbca/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/552122adca4cca5d5463cc28d4d1dbca/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/14a2dc616983d5e613db53060f9cfaea/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/14a2dc616983d5e613db53060f9cfaea/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/726035fff3931c87fbb84fa3137faa13/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/726035fff3931c87fbb84fa3137faa13/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/6dc81c63e61a356995441ad7473b322b/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/6dc81c63e61a356995441ad7473b322b/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/0d1e72391dc528c8601aad040c616b33/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/0d1e72391dc528c8601aad040c616b33/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6281e680eec90c8090aaf257b314b15d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6281e680eec90c8090aaf257b314b15d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/20c4545d8bd6b7a5d85385ee4f6bd2dc/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/20c4545d8bd6b7a5d85385ee4f6bd2dc/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/aa22e7c2caa7701c8703f3040bd76408/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/aa22e7c2caa7701c8703f3040bd76408/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7891e23a0d73398e8661a3752d7b04ac/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7891e23a0d73398e8661a3752d7b04ac/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b28698f6d5c78b4a7f40a5047ddaf048/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b28698f6d5c78b4a7f40a5047ddaf048/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/be067f3aeb44ea8f15b2fd7b5350727b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/be067f3aeb44ea8f15b2fd7b5350727b/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0c8ed92df63f7cf47d5670ac0b74ddde/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0c8ed92df63f7cf47d5670ac0b74ddde/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml
+INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95d9bbca1cfba34f07f8c6aa86a1f4f5/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml
+		ADDED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arkoprovo1996/AndroidStudioProjects/SrijanChat/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95d9bbca1cfba34f07f8c6aa86a1f4f5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fdbe037e474258723e21115e3a08961b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/fdbe037e474258723e21115e3a08961b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c0e73b8c811076a8f841c80233697e5f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/c0e73b8c811076a8f841c80233697e5f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6281e680eec90c8090aaf257b314b15d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6281e680eec90c8090aaf257b314b15d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/20c4545d8bd6b7a5d85385ee4f6bd2dc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/20c4545d8bd6b7a5d85385ee4f6bd2dc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/aa22e7c2caa7701c8703f3040bd76408/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/aa22e7c2caa7701c8703f3040bd76408/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7891e23a0d73398e8661a3752d7b04ac/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7891e23a0d73398e8661a3752d7b04ac/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b28698f6d5c78b4a7f40a5047ddaf048/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/b28698f6d5c78b4a7f40a5047ddaf048/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/be067f3aeb44ea8f15b2fd7b5350727b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/be067f3aeb44ea8f15b2fd7b5350727b/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95d9bbca1cfba34f07f8c6aa86a1f4f5/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/95d9bbca1cfba34f07f8c6aa86a1f4f5/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/14a2dc616983d5e613db53060f9cfaea/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/14a2dc616983d5e613db53060f9cfaea/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/14a2dc616983d5e613db53060f9cfaea/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/14a2dc616983d5e613db53060f9cfaea/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/14a2dc616983d5e613db53060f9cfaea/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/14a2dc616983d5e613db53060f9cfaea/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/14a2dc616983d5e613db53060f9cfaea/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/14a2dc616983d5e613db53060f9cfaea/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/b22743615b5d9ff1418a6bba0abfd59b/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:24:17-71
+permission#com.android.ark.srijanchat.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:26:22-76
+uses-permission#com.android.ark.srijanchat.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:31:13-34:29
+intent-filter#com.android.ark.srijanchat+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:33:27-58
+category#com.android.ark.srijanchat
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/09dda614f52106554afdcf781375602e/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/726035fff3931c87fbb84fa3137faa13/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/726035fff3931c87fbb84fa3137faa13/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/726035fff3931c87fbb84fa3137faa13/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/726035fff3931c87fbb84fa3137faa13/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/726035fff3931c87fbb84fa3137faa13/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/0d1e72391dc528c8601aad040c616b33/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/0d1e72391dc528c8601aad040c616b33/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/0d1e72391dc528c8601aad040c616b33/AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0c8ed92df63f7cf47d5670ac0b74ddde/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0c8ed92df63f7cf47d5670ac0b74ddde/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/arkoprovo1996/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0c8ed92df63f7cf47d5670ac0b74ddde/AndroidManifest.xml:26:13-58

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Srijan Chat</string>
+    <string name="hello_world">Hello World</string>
+    <string name="hello_srijan">Hello Srijan</string>
+    <string name="android_icon">Android Icon</string>
+    <string name="srijan_chat">Srijan Chat</string>
+    <string name="name">Username</string>
+    <string name="log_in">Log In</string>
+    <string name="hacker_logo">Hacker Logo</string>
+    <string name="button">Button</string>
+    <string name="enter_your_message">Enter your Message</string>
+    <string name="chatroom_name">ChatRoom Name</string>
+    <string name="password">Password</string>
+</resources>
